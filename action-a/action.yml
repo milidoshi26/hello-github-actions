@@ -8,10 +8,6 @@ name: "Hello Actions"
      required: true
      default: "World"
 
- runs:
-   using: "docker"
-   image: "Dockerfile"
-
  branding:
    icon: "mic"
    color: "purple"
