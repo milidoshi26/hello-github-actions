@@ -1,13 +1,13 @@
 name: "Hello Actions"
- description: "Greet someone"
- author: "octocat@github.com"
+description: "Greet someone"
+author: "octocat@github.com"
 
- inputs:
-   MY_NAME:
-     description: "Who to greet"
-     required: true
-     default: "World"
+inputs:
+MY_NAME:
+    description: "Who to greet"
+    required: true
+    default: "World"
 
- branding:
-   icon: "mic"
-   color: "purple"
+branding:
+  icon: "mic"
+  color: "purple"
